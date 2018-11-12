@@ -1,0 +1,92 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+body {
+width: 100%;
+}
+
+.logotype {
+    width: 100%;
+    height: 80px;
+    background-color: steelblue;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    display: inline-block;
+    padding-left: 10%;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.sing_up {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border: 1px solid green;
+    position: relative;
+    top: -5px;
+}
+
+.block_forms {
+    width: 60%;
+    height: 300px;
+    margin-left: 16%;
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.login {
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+}
+
+form {
+    margin-left: 20%;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.phone input{
+    border: 1px solid lightblue;
+    box-shadow: 0 0 2px lightblue;
+    height: 25px;
+    margin-left: 5px;
+    padding-left: 5px;
+}
+
+.passwor input{
+    height: 25px;
+    margin-left: 43px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+.check input {
+    margin-left: 113px;
+    margin-top: 15px;
+}
+
+.log_in {
+    background-color: steelblue;
+    padding: 5px 10px;
+    margin-left: 113px;
+    margin-top: 15px;
+    color:white;
+    border: 0.5px solid black;
+}
+
+a {
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.forgot {
+    margin-left: 113px;
+    margin-top: 20px;
+    font-size: 10px;
+}
